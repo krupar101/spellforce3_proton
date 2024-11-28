@@ -4,6 +4,7 @@ Place the spellforce3_fix folder from the zip file into:
 $HOME/.steam/steam/compatibilitytools.d
 
 Select that proton to run the game in steam. 
+
 ![image](https://github.com/user-attachments/assets/881ed2a6-4401-4b33-9dfe-559ace0f36d5)
 
 ### Installation Command
