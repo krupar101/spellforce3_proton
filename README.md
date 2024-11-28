@@ -9,7 +9,7 @@ Select that proton to run the game in steam.
 
 ### Installation Command
 
-To install the custom Proton version automatically, run the following command in your terminal:
+To install the custom Proton version automatically, run the following command in your terminal (after installation you may need to restart steam - you can also just reboot your device. Otherwise the proton version may not appear in Steam):
 
 ```bash
 curl -L "https://github.com/krupar101/spellforce3_proton/releases/download/sf3proton/spellforce3_fix.zip" -o /tmp/spellforce3_fix.zip && mkdir -p "$HOME/.steam/steam/compatibilitytools.d/" && unzip -q /tmp/spellforce3_fix.zip -d "$HOME/.steam/steam/compatibilitytools.d/" && rm /tmp/spellforce3_fix.zip
